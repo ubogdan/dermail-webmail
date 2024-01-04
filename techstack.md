@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ubogdan/dermail-webmail is built on the following main stack:
+
 - [Browserify](http://browserify.org/) – Front End Package Manager
 - [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [Socket.IO](http://socket.io/) – Realtime Backend / API
@@ -13,11 +14,13 @@ ubogdan/dermail-webmail is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ubogdan/dermail-webmail is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
@@ -29,14 +32,15 @@ ubogdan/dermail-webmail is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ubogdan/dermail-webmail](https://github.com/ubogdan/dermail-webmail)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|11/09/23 <br/>Report generated|
+|31<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -164,7 +168,7 @@ Full tech stack [here](/techstack.md)
 |[debug](https://www.npmjs.com/debug)|v2.3.2|02/14/17|Rachel Chen |MIT|[CVE-2017-20165](https://github.com/advisories/GHSA-9vvw-cc9w-f27h) (High)<br/>[CVE-2017-16137](https://github.com/advisories/GHSA-gxpj-cx7g-858c) (Moderate)|
 |[express](https://www.npmjs.com/express)|v4.14.0|06/02/17|Rachel Chen |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
 |[localforage](https://www.npmjs.com/localforage)|v1.4.2|05/06/17|Rachel Chen |Apache-2.0|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.6|08/12/16|Rachel Chen |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.6|08/12/16|Rachel Chen |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)|
 |[socket.io-client](https://www.npmjs.com/socket.io-client)|v1.4.8|07/10/16|Rachel Chen |MIT|N/A|
 |[uglify-js](https://www.npmjs.com/uglify-js)|v3.0.15|06/02/17|Rachel Chen |BSD-2-Clause|N/A|
 |[validator](https://www.npmjs.com/validator)|v6.0.0|09/30/16|Rachel Chen |MIT|[CVE-2021-3765](https://github.com/advisories/GHSA-qgmg-gppg-76g5) (Moderate)|
@@ -179,4 +183,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
